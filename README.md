@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Passionate Aspiring Full-Stack Developer | Customer-Centric Mindset | Strong Technical Expertise
+
+I'm Christian Roy Sevilla, a dedicated Full-Stack Developer based in Cebu City, Philippines. I'm excited to introduce myself and share my journey as a developer.
+
+I bring a customer-centric mindset and valuable experience from my role as a Customer Care Associate at Wipro. This experience has equipped me with exceptional communication skills and the ability to thrive in fast-paced environments while always prioritizing exceptional service.
+
+
 <!--
 **Chriszy00/Chriszy00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
